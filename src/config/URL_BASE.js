@@ -1,0 +1,1 @@
+export const URL_BASE="http://repositorioitsz.sytes.net/api";
